@@ -100,3 +100,4 @@ https://digitalcareerinstitute.org/
 | Micah  | divine@mail.com |
 | Max    | divine@mail.com |
 | Alex   | alex@mail.com   |
+| Alex2  | alex2@mail.com  |
