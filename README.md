@@ -5,10 +5,12 @@
 ## A second-level heading
 
 ### Text Formatting
-### Text Formatting
-##### Text Formatting
-###### Text Formatting
 
+### Text Formatting
+
+##### Text Formatting
+
+###### Text Formatting
 
 ### Italic Text:
 
@@ -94,6 +96,7 @@ https://digitalcareerinstitute.org/
 | Name   | Email           |
 | ------ | --------------- |
 | Divine | divine@mail.com |
-| David | david@mail.com |
-| Micah | divine@mail.com |
-| Max | divine@mail.com |
+| David  | david@mail.com  |
+| Micah  | divine@mail.com |
+| Max    | divine@mail.com |
+| Alex   | alex@mail.com   |
